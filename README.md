@@ -1,1 +1,1 @@
-# IoT---Smart-Greenhouse
+# IoT project: Smart-Greenhouse
